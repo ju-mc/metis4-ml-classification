@@ -1,0 +1,15 @@
+Overview: 
+- For this project I will build a model that classifies mushrooms as either poisonous or edible based on various features. 
+
+Data description: 
+- I'm using a dataset that originally comes from UCI, but has been posted on Kaggle (https://www.kaggle.com/adhyanmaji31/mushroom-classification)
+- The target is the class 'poisonous' (or the classes 'poisonous' and 'edible')
+- The features include shape, color, bruises, odor, habitat, stalk shape, and more
+
+Tools: 
+- I will use jupyter, pandas, logistic regression, KNN, random forest
+
+MVP Goal: 
+- An MVP might be a model that predicts which mushrooms are poisonous with an accuracy greater than 50% (although in this particular case, 
+anything under 100% accuracy is scary)...or maybe it would be a model that enables us to see which features are linked to 
+poisonousness or edibility (I don't know if those are real words)
