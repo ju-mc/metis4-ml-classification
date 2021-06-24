@@ -6,4 +6,5 @@ These features are odor, gill size, and spore print color. Additionally, odor al
 
 ### Data: https://archive.ics.uci.edu/ml/datasets/mushroom
 
-### Tools and algorithms: Numpy, pandas, sklearn, random forest classifier, xgb classifier, KNN, logistic regression, matplotlib, seaborn 
+### Tools and algorithms: 
+Numpy, pandas, sklearn, random forest classifier, xgb classifier, KNN, logistic regression, matplotlib, seaborn 
